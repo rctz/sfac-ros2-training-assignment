@@ -1,0 +1,19 @@
+# TODO: Define action goal
+# Hint: You need field for data size to process
+# int32 data_size
+
+---
+
+# TODO: Define action result
+# Hint: You need fields for success status, processed count, and statistics
+# bool success
+# int32 processed_count
+# float64 processing_time
+# string result_message
+
+---
+
+# TODO: Define action feedback
+# Hint: You need fields for progress percentage and current status
+# int32 progress_percent
+# string current_status 

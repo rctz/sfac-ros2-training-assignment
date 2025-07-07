@@ -1,0 +1,15 @@
+# TODO: Define service request fields
+# Hint: You need fields for linear velocity, angular velocity, and duration
+# Use appropriate types:
+# float64 linear_velocity
+# float64 angular_velocity
+# float64 duration
+
+---
+
+# TODO: Define service response fields  
+# Hint: You need fields for success status, distance traveled, and message
+# Use appropriate types:
+# bool success
+# float64 distance_traveled
+# string message 

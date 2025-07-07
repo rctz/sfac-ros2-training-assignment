@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypelist="xs:string"?>
+<package format="3">
+  <name>robot_sensor_publisher</name>
+  <version>0.0.0</version>
+  <description>ROS2 package for publishing simulated sensor data</description>
+  <maintainer email="student@example.com">Student</maintainer>
+  <license>Apache-2.0</license>
+
+  <!-- Add your dependencies here -->
+  <depend>rclpy</depend>
+  
+  <!-- Add message generation dependencies -->
+  <!-- Hint: You'll need rosidl_default_generators and rosidl_default_runtime -->
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package> 
