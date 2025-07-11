@@ -1,0 +1,9 @@
+float64 linear_velocity
+float64 angular_velocity
+float64 duration
+
+---
+
+bool success
+float64 distance_traveled
+string message 
