@@ -1,0 +1,13 @@
+int32 data_size
+
+---
+
+bool success
+int32 processed_count
+float64 processing_time
+string result_message
+
+---
+
+int32 progress_percent
+string current_status 
