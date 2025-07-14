@@ -147,10 +147,10 @@ Monitor battery health, detect dangerous events, log warnings, and record incide
 
 ### 📚 References
 
-- [Custom ROS 2 Interfaces: Messages](https://docs.ros.org/en/foxy/How-To-Guides/Custom-ROS2-Interfaces.html)
-- [Writing ROS 2 Publishers in Python](https://docs.ros.org/en/foxy/Tutorials/Topics/Writing-A-Simple-Py-Publisher-And-Subscriber.html)
-- [ROS 2 Parameters (Python)](https://docs.ros.org/en/foxy/How-To-Guides/Parameters/Understanding-ROS2-Parameters.html)
-- [Multi-threaded Executors](https://docs.ros.org/en/foxy/How-To-Guides/Node-Callbacks/With-Executors.html)
+- [Custom ROS 2 Interfaces: Messages](https://roboticsbackend.com/ros2-create-custom-message/)
+- [Writing ROS 2 Publishers in Python](https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html)
+- [ROS 2 Parameters (Python)](https://roboticsbackend.com/ros2-rclpy-parameter-callback/)
+- [Multi-threaded Executors](https://www.theconstruct.ai/speed-up-data-processing-with-multi-threaded-execution-english-ros2-tutorial/)
 - [Python CSV Logging](https://docs.python.org/3/library/csv.html)
 
 ## 💪 Extra Encouragement
