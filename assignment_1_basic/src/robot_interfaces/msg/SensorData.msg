@@ -1,0 +1,3 @@
+float32 temperature
+float32 humidity
+builtin_interfaces/Time timestamp
